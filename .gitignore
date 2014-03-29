@@ -2,7 +2,7 @@
 
 # web application files
 /web-app/WEB-INF
-
+.idea/
 # IDE support files
 /.classpath
 /.launch
